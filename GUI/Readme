@@ -1,0 +1,4 @@
+This repository contains the different classes needed to generate the main interface.
+- main.py is the one to run
+- gui.py contains the design functions and links between objects
+- all classes define the objects
