@@ -4,8 +4,4 @@ This repository contains the code developed during my engineering M2 internship.
 
 The implementation includes both **manual reconstruction scripts** and the **Graphical User Interface (GUI)** files for easier visualization and parameter control.
 
-To use HiLo-LFM reconstruction method (Surgele LFM.ipyn), several Tifffile LF images are needed:
-- a reference image,
-- a background image,
-- a uniform image,
-- a directory with at least one structured image for HiLo.
+Please read the Readme files in each repository for further information.
