@@ -4,3 +4,6 @@ This repository contains the different classes needed to generate the main inter
 - all classes define the objects
 - pycobolt contains laser functions
 - dlpc350 contains functions for the DMD
+
+You may need to add in the same repository the files new_hilo1.py and fourierslice_refocusing.py to make the reconstructions work.
+
