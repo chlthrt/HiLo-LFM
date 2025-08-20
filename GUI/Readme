@@ -2,3 +2,5 @@ This repository contains the different classes needed to generate the main inter
 - main.py is the one to run
 - gui.py contains the design functions and links between objects
 - all classes define the objects
+- pycobolt contains laser functions
+- dlpc350 contains functions for the DMD
