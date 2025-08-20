@@ -1,0 +1,7 @@
+This repository contains all scripts used for the different reconstructions.
+- Surgele LFM.ipynb is the main Jupyter Notebook
+- stack_display.py contains a functions that displays any stack with a possibility to navigate through perspectives or volumes
+- fouriersclice_refocusing.py contains the functions adapted from Matlab for the Fourier refocusing
+- new_hilo1.py contains the functions adapted from Matlab to perform HiLo reconstruction
+- the refocusing.ipynb notebook has been used to test the experimental values and validate the fourierslce algorithm
+- the computation_time.ipynb notebook has been used to calculate the computation times for every step of the LFM and HiLo reconstructions
